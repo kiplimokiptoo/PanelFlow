@@ -6,7 +6,7 @@ export default function Layout({ children }) {
     <div className="app-shell">
       <aside className="sidebar">
         <NavLink className="brand" to="/">
-          <Store aria-hidden="true" />
+          <span className="brand-mark" aria-hidden="true">PF</span>
           <span>PanelFlow</span>
         </NavLink>
 

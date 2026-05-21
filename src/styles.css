@@ -48,10 +48,22 @@ textarea {
   margin-bottom: 36px;
 }
 
-.brand svg,
 .sidebar nav svg {
   height: 20px;
   width: 20px;
+}
+
+.brand-mark {
+  align-items: center;
+  background: #f4c430;
+  border-radius: 6px;
+  color: #101820;
+  display: inline-flex;
+  font-size: 0.78rem;
+  font-weight: 900;
+  height: 30px;
+  justify-content: center;
+  width: 30px;
 }
 
 .sidebar nav {
