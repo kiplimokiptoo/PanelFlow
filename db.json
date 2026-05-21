@@ -2,32 +2,32 @@
   "products": [
     {
       "id": 1,
-      "name": "Nova Headphones",
-      "category": "Audio",
+      "name": "Razor Headsets",
+      "category": "Electronics",
       "price": 129,
       "stock": 18,
       "description": "Wireless headphones with noise control and long battery life.",
-      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=700&q=80",
+      "image": "https://i.pinimg.com/1200x/20/f8/ed/20f8edc7e29ef69f7dd4d9dc0052f79b.jpg",
       "featured": true
     },
     {
       "id": 2,
-      "name": "Metro Backpack",
-      "category": "Travel",
+      "name": "Razor Mouse",
+      "category": "Electronics",
       "price": 84,
       "stock": 31,
-      "description": "Durable everyday backpack with laptop storage and weather-resistant fabric.",
-      "image": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?auto=format&fit=crop&w=700&q=80",
+      "description": "Professional gaming mouse with quick response per click.",
+      "image": "https://i.pinimg.com/736x/4b/2e/04/4b2e04d1cc2f011a9b4e422950f867e3.jpg",
       "featured": false
     },
     {
       "id": 3,
-      "name": "Desk Lamp Pro",
-      "category": "Office",
+      "name": "Razor Laptop",
+      "category": "Electronic",
       "price": 59,
       "stock": 12,
-      "description": "Adjustable LED desk lamp with warm and cool lighting modes.",
-      "image": "https://images.unsplash.com/photo-1507473885765-e6ed057f782c?auto=format&fit=crop&w=700&q=80",
+      "description": "High-end gaming laptop with 24gb ram and 1tb of storage.",
+      "image": "https://i.pinimg.com/1200x/88/7a/65/887a6561d1434be1c47df33f105cefc9.jpg",
       "featured": true
     }
   ]
